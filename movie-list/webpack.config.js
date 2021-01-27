@@ -18,8 +18,5 @@ module.exports = {
       },
     ],
   },
-  devServer: {
-    contentBase: "./dist",
-  },
   plugins: [htmlPlugin],
 };
