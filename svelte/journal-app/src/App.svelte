@@ -1,12 +1,8 @@
 <script>
-  export let name = "";
+  import Renderer from "./components/Render.svelte";
+
+  const content = `# Markdown here!
+  Here's a **great** post.`;
 </script>
 
-<h1>Hello, {name}</h1>
-<p>My first Svelte app</p>
-
-<style>
-  p {
-    color: #1d4585;
-  }
-</style>
+<Renderer title="Hello" {content} />
