@@ -1,8 +1,5 @@
 <script>
-  import Renderer from "./components/Render.svelte";
-
-  const content = `# Markdown here!
-  Here's a **great** post.`;
+  import ViewAdd from "./components/ViewAdd.svelte";
 </script>
 
-<Renderer title="Hello" {content} />
+<ViewAdd />
