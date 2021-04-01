@@ -28,7 +28,7 @@ class TimerHomePage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    final List<PopupMenuItem<String>> menuItems = List<PopupMenuItem<String>>();
+    final List<PopupMenuItem<String>> menuItems = [];
     menuItems.add(PopupMenuItem(
       value: 'Settings',
       child: Text('Settings'),
@@ -102,7 +102,7 @@ class TimerHomePage extends StatelessWidget {
                           lineWidth: 10.0,
                           percent: timer.percent,
                           center: Text(timer.time,
-                              style: Theme.of(context).textTheme.display1),
+                              style: Theme.of(context).textTheme.headline4),
                           progressColor: Color(0xff009688),
                         ),
                       );
