@@ -1,0 +1,10 @@
+/Users/jason/Workspace/personal/tutorials/rust/rust-send-html-smtp-emails/target/debug/deps/pest_generator-2b86f203d272a2f6.rmeta: /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/lib.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/macros.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/docs.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/generator.rs
+
+/Users/jason/Workspace/personal/tutorials/rust/rust-send-html-smtp-emails/target/debug/deps/libpest_generator-2b86f203d272a2f6.rlib: /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/lib.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/macros.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/docs.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/generator.rs
+
+/Users/jason/Workspace/personal/tutorials/rust/rust-send-html-smtp-emails/target/debug/deps/pest_generator-2b86f203d272a2f6.d: /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/lib.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/macros.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/docs.rs /Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/generator.rs
+
+/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/lib.rs:
+/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/macros.rs:
+/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/docs.rs:
+/Users/jason/.cargo/registry/src/index.crates.io-6f17d22bba15001f/pest_generator-2.7.0/src/generator.rs:
